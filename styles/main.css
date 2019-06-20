@@ -1,0 +1,26 @@
+h1 {
+  font-family: 'Mr Bedfort', cursive;
+  font-size: 5em;
+  color: #F7F0F0;
+  text-align: center;
+}
+
+a {
+  font-family: 'Alegreya', serif;
+  font-size: 2em;
+  color: #F7F0F0;
+  display: block;
+  text-align: center;
+  margin: 50px 0px;
+}
+
+body {
+  background-color: #12355B;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}

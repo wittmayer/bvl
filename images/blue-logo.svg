@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="340px" height="380px" viewBox="0 0 340 380" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Color Stamp - White with blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Color-Stamp---White-with-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="White-Logo" transform="translate(10.000000, 24.000000)">
+            <ellipse id="Oval" cx="159.594471" cy="166.204175" rx="159.405529" ry="165.795825"></ellipse>
+            <g id="Circle" stroke="#F7F0F0">
+                <path d="M0.188942373,159.923883 L0.188942373,159.923883 C0.18894262,159.918706 0.188942373,159.913528 0.188942373,159.90835 C0.188942373,71.8189329 71.5893193,0.408350483 159.666148,0.408350483 C247.742976,0.408350483 319.143353,71.8189329 319.143353,159.90835 C319.143353,159.913528 319.143353,159.918706 319.143353,159.923883" id="Path" stroke-width="4"></path>
+                <path d="M0.188942373,332.464791 L0.188942373,332.464791 C0.18894262,332.459613 0.188942373,332.454436 0.188942373,332.449258 C0.188942373,244.35984 71.5893193,172.949258 159.666148,172.949258 C247.742976,172.949258 319.143353,244.35984 319.143353,332.449258 C319.143353,332.454436 319.143353,332.459613 319.143353,332.464791" id="Path" stroke-width="4" transform="translate(159.666148, 252.707024) scale(1, -1) translate(-159.666148, -252.707024) "></path>
+                <path d="M0.188942373,166.5 L70.9597421,166.5" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M0.188942373,174.5 L153.959742,174.5" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M165.188942,174.449258 L318.959742,174.449258" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M107.626409,166.5 L153.959742,166.5" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M165.188942,166.5 L208.249403,166.5" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M235.626409,166.5 L319.143353,166.5" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M0.188942373,158.550742 L61.7930754,158.550742" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M118.188942,158.550742 L153.959742,158.550742" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M165.188942,158.550742 L204.652775,158.550742" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M242.188942,158.550742 L319.143353,158.550742" id="Line-8" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <g id="Text" transform="translate(72.000000, 196.000000)" fill="#F7F0F0" font-weight="normal">
+                <text id="leather" font-family="AlegreyaSC-Regular, Alegreya SC" font-size="49">
+                    <tspan x="0.055" y="74.5846927">leather</tspan>
+                </text>
+                <text id="blue" font-family="MrBedfort-Regular, Mr Bedfort" font-size="35">
+                    <tspan x="17.5096749" y="36">blue</tspan>
+                </text>
+                <text id="velvet" font-family="MrBedfort-Regular, Mr Bedfort" font-size="35">
+                    <tspan x="93.3303251" y="36">velvet</tspan>
+                </text>
+            </g>
+            <g id="L" transform="translate(157.666148, 37.200849)" stroke="#F7F0F0" stroke-linecap="square" stroke-width="3">
+                <path d="M1.91651871,0.498172928 L1.91651871,147.56941" id="Line-2"></path>
+            </g>
+            <polyline id="Path-2" stroke="#F7F0F0" stroke-width="3" points="225.761489 146.992639 193.881755 65.3584975 216.073427 65.3584975 216.073427 59.6 185.1 59.6 222.65862 154.738624 260.1 59.6 246.309357 59.6 240.1 74.6646134"></polyline>
+            <path d="M90.9636127,107.247894 C105.031344,94.5584961 110.937442,83.9796208 108.681909,75.5112679 C105.693093,64.2898175 95.1952651,56.0312835 73.8682289,56.0312835 C65.6946372,55.8472055 61.4052276,56.4754888 61,57.9161332 L61,112.184254 L66.7759299,112.184254 L66.7759299,56.0312835" id="Path-3" stroke="#F7F0F0" stroke-width="3"></path>
+            <path d="M80.6223348,93.0108381 L80.6223348,158.472373 C98.4429154,159.370106 109.635222,154.344357 114.199254,143.395127 C119.723641,130.141982 108.328039,115.940279 104.241901,111.334641" id="Path-4" stroke="#F7F0F0" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>
